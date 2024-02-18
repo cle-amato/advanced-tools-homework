@@ -41,14 +41,14 @@ h3 {
     font-size: 18px;
   }
 
-  .grid-image {
-    display: none;
-  }
-
   .grid-button {
     display: block;
     margin: 0 auto;
     text-align: center;
+  }
+
+  .homepage-link {
+    font-size: 13px;
   }
 }
 
@@ -98,6 +98,7 @@ h3 {
   color: var(--primary-color);
   text-align: center;
   display: block;
+  margin-top: 60px;
 }
 
 .about-paragraphs p {
